@@ -1,0 +1,23 @@
+---
+title: Kashmir Debate
+location: Balliol College, Oxford
+event-date: 4 May, 2013
+event-time: 2pm
+category: seminar
+date: May 4, 2013
+thumb: http://data.oxfordindiasociety.org.uk/thumbnails/kashmir-debate/DSC03098.JPG
+images: kashmir-debate
+description: A debate on the Kashmir issue was held at Balliol College.
+---
+
+<div class="row">
+
+$for(photos)$
+<div class="col-xs-6 col-md-3">
+<a href=$original$ class="thumbnail">
+<img src=$thumbnail$>
+</a>
+</div>
+$endfor$
+
+</div>
