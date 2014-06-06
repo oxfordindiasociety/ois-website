@@ -49,7 +49,8 @@ html = """
         <h2>Fundraising for the Act for Change India</h2>
 
     <div class="alert alert-info">
-    <p style="font-family:Raleway,sans-serif;font-weight:bold">The event is at <strong>Corpus Christi College</strong>, Merton Road</p>
+    <p style="font-family:Raleway,sans-serif;font-weight:bold">The event is at <strong>Corpus Christi College</strong>, Merton Road
+    <span class="glyphicon glyphicon-time"></span> 6 - 9.30pm
     </div>
 
           <div class="row">
