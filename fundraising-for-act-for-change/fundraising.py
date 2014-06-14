@@ -4,12 +4,17 @@
 formdir = "/ois/fundraising-2014-june/"
 html = """
 <!doctype html>
-<head>
+<head prefix="og: http://ogp.me/ns#">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Oxford India Society - Fundraising for Act for Change India</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" />
 <link rel="stylesheet" type="text/css" href="/css/style.css" />
+<meta property="og:title" content="Fundraising for Act for Change" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.oxfordindiasociety.org.uk/fundraising-for-act-for-change/" />
+<meta property="og:image" content="http://www.oxfordindiasociety.org.uk/fundraising-for-act-for-change/vegbiriyani.jpg" />
+<meta property="og:site_name" content="Oxford India Society" />
 <script src="/js/jquery-1.11.1.js"></script>
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

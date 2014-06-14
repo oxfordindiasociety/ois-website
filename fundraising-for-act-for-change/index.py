@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Sign up form
 
-places = 100
+places = 76
 import os
 import cgi
 import time
