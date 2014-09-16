@@ -1,7 +1,7 @@
 ---
 name: Amit Kumar
 title: Secretary, Cultural Events
-image: photos/committee/amit.jpg
+image: amit.jpg
 email: cultural
 order: 8
 ---
