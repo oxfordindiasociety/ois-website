@@ -1,5 +1,5 @@
 {
-  "output": "./build",
+  "output": "/srv/www/www.oxfordindiasociety.org.uk",
   "locals": {
     "url": "http://www.oxfordindiasociety.org.uk",
     "vcsurl": "http://github.com/oxfordindiasociety/ois-website",
