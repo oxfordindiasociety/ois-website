@@ -1,7 +1,7 @@
 ---
 name: Medha Srivastava
 title: Secretary, Public Relations
-image: photos/committee/medha.jpg
+image: medha.jpg
 email: public-relations
 order: 4
 ---

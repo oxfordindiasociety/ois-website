@@ -1,7 +1,7 @@
 ---
 name: Sudakshina Das
 title: Alumni Officer
-image: photos/committee/sudi.png
+image: sudi.png
 email: alumni
 order: 6
 ---
