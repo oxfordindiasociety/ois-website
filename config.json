@@ -1,0 +1,17 @@
+{
+  "output": "./build",
+  "locals": {
+    "url": "http://www.oxfordindiasociety.org.uk",
+    "vcsurl": "http://github.com/oxfordindiasociety/ois-website",
+    "description": "The Oxford India Society celebrates the diverse culture of India in Oxford.",
+    "keywords": [ "oxford", "india", "policy", "policy blog", "holi", "diwali" ]
+  },
+  "require": {
+    "_": "underscore",
+    "util": "util",
+    "marked": "marked"
+  },
+  "jade": {
+    "pretty": true
+  }
+}

@@ -1,0 +1,46 @@
+extends layout
+
+block body
+    h1 Events 
+      small
+        a#all-show(href='#')
+          small Show all
+    .row
+      #social-show.col-sm-6.col-md-3.category
+        h4 Social
+        p
+          | Although the OIS is well-known for its Bollywood bop, one of the most
+          | popular Oxford bops, its very first social event of the academic year
+          | was a Meet-n-Greet that brought together new and old Indian students
+          | at Oxford under one roof. The society&apos;s social engagements also extend
+          | to topical events like the Republic Day celebration.
+      #cultural-show.col-sm-6.col-md-3.category
+        h4 Cultural
+        p
+          | In order to showcase the cultural diversity of India to the Oxford
+          | community, the OIS threw a successful Holi party, organised an Indian
+          | formal dinner -- the first of many to come, and had Bollywood actors
+          | Naseeruddin Shah and Ratna Pathak regale the audience with a poetry
+          | reading. OIS members also exhibited
+          | their culinary and dance skills at the annual International Festival,
+          | alongside our neighbours -- the Pakistan and Bangladesh societies.
+      #fundraising-show.col-sm-6.col-md-3.category
+        h4 Fundraising
+        p
+          | As part of its commitment to charitable causes, the OIS routinely
+          | organises and participates in events to raise money for its partner
+          | institutions. This year we contributed to the Bhopal Medical Appeal
+          | through the Oxford Town &amp; Gown charity race, as well as fundraising
+          | for the Act for Change India.
+      #seminar-show.col-sm-6.col-md-3.category
+        h4 Seminars
+        p
+          | One of the three founding principles of the OIS is to promote
+          | contemporary intellectual thought. To that end, the society invited
+          | leading names from the fields of human rights, law, politics to interact with the Oxford community via talks and seminars.
+    .row
+      - var events = _.chain(contents['events']._.pages).sortBy(function(item) {
+      -   return item.date;
+      - }).reverse().value()
+      each event in events
+        include partials/event

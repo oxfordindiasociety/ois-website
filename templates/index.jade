@@ -1,0 +1,37 @@
+extends layout
+
+block main
+  .page-header.container
+    h1
+      | oxford 
+      span(style='color:orange') i
+      | n
+      span(style='color:#abcdef') d
+      | i
+      span(style='color:lightgreen') a
+      |  society
+  .carousel.container
+    .item
+      img(src='http://data.oxfordindiasociety.org.uk/photos/carousel/holi.jpg')
+    .item
+      img(src='http://data.oxfordindiasociety.org.uk/photos/carousel/formal-dinner.jpg')
+  .container.blurb
+    h3!= contents['blurb.md'].html
+  .container.subscribe
+    p
+      a(href='mailto:indian.society@studentclubs.ox.ac.uk?subject=subscribe') Subscribe to our newsletter
+      |  or visit our 
+      a(href='http://facebook.com/oxfordindiasociety') Facebook page
+  .container.main
+    h2 upcoming
+      .row.upcoming
+        - var upcoming = _.chain(contents['upcoming']._.pages).value()
+        each event in upcoming
+          include partials/upcoming
+    h3 Letter from the President
+    .row
+      .col-sm-12
+        p
+          img.committee(src='http://data.oxfordindiasociety.org.uk/' + contents['letter-from-the-president.md'].metadata.image)
+        != contents['letter-from-the-president.md'].html
+
