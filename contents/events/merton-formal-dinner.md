@@ -1,7 +1,6 @@
 ---
 title: Indian Formal Dinner
 location: Merton College, Oxford
-event-date: 5 March, 2014
 event-time: 7pm
 category: social
 date: March 5, 2014

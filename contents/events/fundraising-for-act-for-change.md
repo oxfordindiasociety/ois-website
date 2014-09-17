@@ -1,7 +1,6 @@
 ---
 title: Fundraising for the Act for Change India
 location: Corpus Christi College
-event-date: 7 June, 2014
 event-time: 6pm
 category: fundraising
 date: June 7, 2014

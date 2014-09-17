@@ -1,7 +1,6 @@
 ---
 title: Poetry Reading by Naseeruddin Shah and Ratna Pathak
 location: Shulman Auditorium, Queen's College
-event-date: 18 May, 2014
 event-time: 4.30pm
 category: cultural
 date: May 18, 2014

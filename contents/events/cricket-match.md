@@ -1,7 +1,6 @@
 ---
 title: Cricket Match between OIS and OU PakSoc
 location: University Parks, Oxford
-event-date: 2 August, 2013
 event-time: 3pm
 category: social
 date: August 2, 2013

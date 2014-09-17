@@ -1,7 +1,6 @@
 ---
 title: Supporting the Bhopal Medical Appeal
 location: Merton College, Oxford
-event-date: 25 June, 2013
 event-time: 7pm
 category: fundraising
 date: June 25, 2013

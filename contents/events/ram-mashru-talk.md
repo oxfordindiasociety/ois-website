@@ -1,7 +1,6 @@
 ---
 title: Talk on Human Insecurity by Ram Mashru
 location: Dahrendorf Room, St Antony's College
-event-date: 12 March, 2014
 event-time: 3pm
 date: March 12, 2014
 category: seminar

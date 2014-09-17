@@ -1,7 +1,6 @@
 ---
 title: Panel Discussion on Judicial Activism by Soli Sorabjee
 location: Law Faculty, St Cross Road
-event-date: 13 June, 2014
 event-time: 4.30pm
 category: seminar
 date: June 13, 2014

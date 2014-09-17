@@ -1,7 +1,6 @@
 ---
 title: Bollywood BOP
 location: Varsity Club, High Street
-event-date: 21 February, 2014
 event-time: 9pm
 category: social
 date: February 21, 2014

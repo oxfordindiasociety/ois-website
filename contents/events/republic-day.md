@@ -1,7 +1,6 @@
 ---
 title: Republic Day
 location: Balliol College
-event-date: 26 January, 2014
 event-time: 6pm
 category: social
 date: January 26, 2014

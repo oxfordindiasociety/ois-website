@@ -1,7 +1,6 @@
 ---
 title: Dialogue on Kashmir
 location: Dahrendorf Room, St Antony's College
-event-date: 15 June, 2014
 event-time: 3.30pm
 category: seminar
 date: June 15, 2014

@@ -1,7 +1,6 @@
 ---
 title: Live screening of election results
 location: Exeter College
-event-date: 16 May, 2014
 event-time: 8am
 category: social
 date: May 16, 2014
