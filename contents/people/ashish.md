@@ -6,3 +6,4 @@ email: webmaster
 order: 5
 ---
 
+Ashish manages the website and the Oxford India Society mailing lists.
