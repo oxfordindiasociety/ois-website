@@ -26,10 +26,10 @@ block main
       a(href='http://facebook.com/oxfordindiasociety') Facebook page
   .container.main
     h2 upcoming
-      .row.upcoming
-        - var upcoming = _.chain(contents['upcoming']._.pages).value()
-        each event in upcoming
-          include partials/upcoming
+    .row.upcoming
+      - var upcoming = _.chain(contents['upcoming']._.pages).value()
+      each event in upcoming
+        include partials/upcoming
     h3 Letter from the President
     .row
       .col-sm-12

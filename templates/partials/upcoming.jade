@@ -1,7 +1,9 @@
-.col-sm-6.col-md-4
-  .thumbnail
-    .caption
-      h3= event.title
-      h4= event.date
-      h5= event.location + ", " + event.time
-      p!= event.html
+div(class='col-sm-6 col-md-4 ' + event.metadata.category)
+  if event.metadata.thumb
+    .thumbnail
+      img(src=event.metadata.thumb)
+  .caption
+    h3= event.title
+    h4= event.metadata.date
+    h5.location= event.metadata.location
+    p!= event.html
