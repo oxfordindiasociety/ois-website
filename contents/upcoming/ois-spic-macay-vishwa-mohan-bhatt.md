@@ -14,5 +14,5 @@ Centre](http://www.nehrucentre.org.uk/). Creator of the Mohan Veena and the
 winner of the Grammy Award, Vishwa Mohan Bhatt has mesmerised the world with
 his music.
 
-He shall be accompanied on the Tabla by Raj Kumar Mishra. 
+He shall be accompanied on the Tabla by Raj Kumar Mishra. **[Buy tickets!](http://www.eventbrite.com/e/ois-spic-macay-music-concert-by-vishwa-mohan-bhatt-tickets-13795728395)**
 
