@@ -1,5 +1,5 @@
 ---
-title: OIS & SPIC MACAY: Music Concert with Pandit Vishwa Mohan Bhatt
+title: OIS & SPIC MACAY Music Concert with Pandit Vishwa Mohan Bhatt
 location: Holywell Music Room
 event-time: 5.45pm
 category: cultural
