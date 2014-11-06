@@ -1,5 +1,5 @@
 ---
-title: OIS Elections: Call for Nominations
+title: OIS Elections; Call for Nominations
 location:
 event-time: midnight
 category: social
