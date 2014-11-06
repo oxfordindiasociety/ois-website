@@ -12,7 +12,7 @@ Bollywood costume and come for a night of dancing with Hindi songs! The
 only time of the term when you will find Bollywood music blasting off in a
 club in Oxford till 3am is back!
 
-Entry is £4 (students only, Bod card required). We open the doors at 9pm,
-and finish at 3am.
+Entry is £4 (university ID card required, guests allowed). We open the
+doors at 9pm, and finish at 3am.
 
 Drinks will be at happy hour prices till midnight.
