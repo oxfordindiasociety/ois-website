@@ -19,3 +19,5 @@ and Treasurer and also for the following teams (we are ideally looking for
 People can nominate themselves for multiple teams, see
 <http://elections.oxfordindiasociety.org.uk/> for what each team does.
 
+The deadline for receiving nominations is Sat Nov 15 2359 GMT 2014
+All nominations should be sent to <elections@oxfordindiasociety.org.uk>.
