@@ -7,18 +7,28 @@ date: November 5, 2014
 thumb: http://posters.oxfordindiasociety.org.uk/pt-vishwa-mohan-bhatt.jpg
 ---
 
-The Oxford India Society organised a musical concert by Pandit Vishwa Mohan
-Bhatt, Grammy Award winner and creator of the Mohan Veena; in collaboration
-with SPIC MACAY, and sponsored by the [Nehru
-Centre](http://www.nehrucentre.org.uk/). Creator of the Mohan Veena and the
-winner of the Grammy Award, Vishwa Mohan Bhatt has mesmerised the world with
-his music.
-
-A disciple of Pt. Ravi Shankar, Vishwa Mohan Bhatt has attracted international
-attention by his successful indianisation of the western Hawaiian guitar with
-his perfect assimilation of sitar, sarod & veena techniques, by giving it a
-evolutionary design & shape and by adding 14 more strings helping him to
-establish the instrument Mohan Veena  to unbelievable heights. 
-
-He was accompanied on the Tabla by Raj Kumar Mishra. 
-
+Oxford India Society played host to Grammy Award winner
+Pandit Vishwa Mohan Bhatt on Wednesday, 5th November at a musical concert which
+saw a turnout of over 100 students.
+ 
+A disciple of internationally acclaimed Sitar maestro, Pandit Ravi Shankar,
+Vishwa Mohan Bhatt is world renowned for inventing the Mohan Veena. The Mohan
+Veena is an original Indian adaptation of the Hawaiian guitar, featuring
+fourteen additional strings, enabling him to incorporate playing styles from
+other Indian instruments such as the sitar, sarod and veena.
+ 
+At the iconic Hollywell Music Room, which ranks as one of the oldest music
+halls in Europe, Pandit Vishwa Mohan Bhatt accompanied by Pandit Rajkumar
+Mishra on the table gave a mesmerizing performance. This included his Grammy
+award winning composition ‘A Meeting by the River’. Pandit Vishwa Mohan Bhatt
+played several ragas such as *Raga Vishwa Ranjini*, educating the audience about
+the nuances of the classical Indian music. He demonstrated the different *talas*
+at varying speeds exhibiting the intricacies that went into playing of the
+instrument. The audience sang along with the maestro and each rendition was received with thundering applause.
+The performance culminated with a Q&A session where
+Pandit Vishwa Mohan Bhatt answered a range of questions about how he invented
+the Mohan Veena and how it compares to classical Indian and Western instruments.
+On popular request he played the Indian national song *Vande Mataram* amidst
+cheers from the audience. The night culminated with a standing ovation for the
+maestro and a vote of thanks to the Nehru Centre, Spic Macay and Oxford India
+Society for making the event possible. 
