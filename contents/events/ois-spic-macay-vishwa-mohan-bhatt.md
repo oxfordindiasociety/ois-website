@@ -32,3 +32,5 @@ On popular request he played the Indian national song *Vande Mataram* amidst
 cheers from the audience. The night culminated with a standing ovation for the
 maestro and a vote of thanks to the Nehru Centre, Spic Macay and Oxford India
 Society for making the event possible. 
+
+**[Photos of the event](http://photos.oxfordindiasociety.org.uk/ois-spic-macay-vishwa-mohan-bhatt-concert/)**
