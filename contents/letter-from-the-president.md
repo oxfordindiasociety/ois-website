@@ -47,6 +47,6 @@ wish the new President Anjul and his team – Arghya, Arvind, Ashish, Amba ,
 Dhruti, Devendra, Madhav, Mandvi , Niharika, Nikhil, Pranoy, Ritesh,  Shifali ,
 Sounak , Varshita and Vishal the very best for 2015.
 
-Hem Borker
+Hem Borker  
 OIS President 2014
 
