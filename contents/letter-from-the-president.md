@@ -1,8 +1,3 @@
----
-name: Hem Borker
-image: photos/committee/hem.png
----
-
 Dear friends,
 
 As the year draws to a close and I reflect on the journey that we have taken
