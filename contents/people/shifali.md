@@ -1,7 +1,7 @@
 ---
 name: Shifali Shishodia
 title: External Relations
-image: shifali.jpg
+image: circle-with-point.svg
 email: contact
 order: 7
 ---

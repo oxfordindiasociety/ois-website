@@ -1,7 +1,7 @@
 ---
 name: Mandvi Dogra
 title: Events
-image: mandvi.jpg
+image: circle-with-point.svg
 email: events
 order: 8
 ---

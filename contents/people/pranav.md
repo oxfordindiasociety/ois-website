@@ -1,7 +1,7 @@
 ---
 name: Pranav Lokin
 title: Sports
-image: pranav.jpg
+image: circle-with-point.svg
 email: sports
 order: 14
 ---

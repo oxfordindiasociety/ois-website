@@ -1,7 +1,7 @@
 ---
 name: Vishal Maingi
 title: Webmaster
-image: vishal.jpg
+image: circle-with-point.svg
 email: webmaster
 order: 16
 ---

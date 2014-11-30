@@ -1,7 +1,7 @@
 ---
 name: Arghya Modak
 title: External Relations
-image: arghya.jpg
+image: circle-with-point.svg
 email: contact
 order: 4
 ---

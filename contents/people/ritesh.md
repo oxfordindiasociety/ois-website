@@ -1,7 +1,7 @@
 ---
 name: Ritesh Tibrewal
 title: Publicity
-image: ritesh.jpg
+image: circle-with-point.svg
 email: publicity
 order: 13
 ---

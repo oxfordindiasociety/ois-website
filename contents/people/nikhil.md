@@ -1,7 +1,7 @@
 ---
 name: Nikhil Nair
 title: External Relations
-image: nikhil.jpg
+image: circle-with-point.svg
 email: contact
 order: 5
 ---
