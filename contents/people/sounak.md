@@ -1,7 +1,7 @@
 ---
 name: Sounak Sahu
 title: Publicity
-image: circle-with-point.svg
+image: sounak.jpg
 email: publicity
 order: 11
 ---
