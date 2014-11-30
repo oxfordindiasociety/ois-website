@@ -1,14 +1,11 @@
 ---
 name: Devendra Meena
-title: Secretary, Sports
+title: Sports
 image: devendra.png
 email: sports
-order: 10
+order: 15
 ---
 
 Devendra is a DPhil student in Department of Oncology, University of
 Oxford. His scientific interest is Population Genetics and he is currently
-engaged in “People of the British Isles: Face of Britain” Project.Devendra
-is a DPhil student in Department of Oncology, University of Oxford. His
-scientific interest is Population Genetics and he is currently engaged in
-“People of the British Isles: Face of Britain” Project.
+engaged in “People of the British Isles: Face of Britain” Project.

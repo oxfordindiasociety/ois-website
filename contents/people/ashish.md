@@ -1,9 +1,9 @@
 ---
 name: Ashish Thandavan
-title: Webmaster
+title: systems
 image: ashish.jpg
-email: webmaster
-order: 5
+email: systems-coordinator
+order: 17
 ---
 
-Ashish is a Computing Officer at the Department of Computer Science at the University of Oxford and manages the website and the Oxford India Society mailing lists.
+Ashish is a Computing Officer at the Department of Computer Science at the University of Oxford and manages the website, systems and the Oxford India Society mailing lists.
