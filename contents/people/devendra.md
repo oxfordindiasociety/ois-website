@@ -3,7 +3,7 @@ name: Devendra Meena
 title: Sports
 image: devendra.png
 email: sports
-order: 15
+order: 14
 ---
 
 Devendra is a DPhil student in Department of Oncology, University of
