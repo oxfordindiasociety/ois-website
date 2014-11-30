@@ -18,17 +18,10 @@ block main
     .item
       img(src='http://data.oxfordindiasociety.org.uk/photos/carousel/formal-dinner.jpg')
   .container.blurb
-    h3!= contents['blurb.md'].html
+    h3!= contents['front-page-intro.md'].html
   .container.subscribe
     p
       a(href='http://register.oxfordindiasociety.org.uk/') Register for our newsletter
       |  or visit our 
       a(href='http://facebook.com/oxfordindiasociety') Facebook page
-  .container.main
-    h3 Letter from the President
-    .row
-      .col-sm-12
-        p
-          img.committee(src='http://data.oxfordindiasociety.org.uk/' + contents['letter-from-the-president.md'].metadata.image)
-        != contents['letter-from-the-president.md'].html
 
