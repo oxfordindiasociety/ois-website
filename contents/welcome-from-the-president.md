@@ -8,7 +8,6 @@ Along with all the exciting, inspiring and fun things OIS has brought to you las
 
 For making Oxford for India a reality, we would need your support and enthusiasm in helping us help you bring about real change in true Oxford spirit!
 
-
 Anjul Khadria
-President, Oxford India Society
 
+President, Oxford India Society
