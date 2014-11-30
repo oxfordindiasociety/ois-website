@@ -3,12 +3,13 @@ extends layout
 block title
   title Oxford India Society - About
 block body
-  h1 About
+  h1 Welcome from the President
   .row
     .col-sm-6.col-md-4(style='font-family:Raleway, sans-serif')
-      != contents['about-blurb.md'].html
-    .col-sm-6.col-md-8
-      h3 The Committee for 2014
+      != contents['letter-from-the-president.md'].html
+  .row
+    .col-sm-6.col-md-12
+      h3 The Committee for 2015
       - var people = _.chain(contents['people']._.pages).sortBy(function(item) {
       -   return item.metadata.order;
       - }).value()
