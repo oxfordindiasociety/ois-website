@@ -1,7 +1,7 @@
 ---
 name: Dhruti Babariya
 title: Secretary
-image: circle-with-point.svg
+image: dhruti.jpg
 email: secretary
 order: 2
 ---
