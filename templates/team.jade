@@ -9,7 +9,7 @@ block body
       != contents['welcome-from-the-president.md'].html
   .row
     h3 The Committee for 2015
-    .col-sm-6.col-md-4
+    .col-md-4
       - var people = _.chain(contents['people']._.pages).sortBy(function(item) {
       -   return item.metadata.order;
       - }).value()
