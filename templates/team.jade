@@ -10,9 +10,9 @@ block body
   .row
     .col-sm-6.col-md-12
       h3 The Committee for 2015
-    .col-sm-6.col-md-4
+    .col-md-4
       - var people = _.chain(contents['people']._.pages).sortBy(function(item) {
       -   return item.metadata.order;
       - }).value()
       each p in people
-        include partials/people
+        include partials/folks

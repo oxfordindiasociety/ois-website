@@ -1,0 +1,11 @@
+.col-md-4
+  .thumbnail
+    img.committee.img-circle(src='http://data.oxfordindiasociety.org.uk/photos/committee/' + p.metadata.image)
+    .caption
+      h3= p.metadata.name
+      h4
+        = p.title
+        a.email(href='mailto:' + p.metadata.email + '@oxfordindiasociety.org.uk')
+          span.glyphicon.glyphicon-envelope
+
+
