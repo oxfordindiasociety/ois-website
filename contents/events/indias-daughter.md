@@ -1,5 +1,5 @@
 ---
-title: India's daughter: Attitudes towards gender based violence in India
+title: India's daughter - Attitudes towards gender based violence in India
 location: Bernard Sunley Theatre, St Catherine's college
 event-time: 4PM
 category: seminar
