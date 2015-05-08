@@ -4,7 +4,7 @@ location: Fellows’ dining room, St Antony’s college
 event-time: 11:30am
 category: seminar
 date: 28 May 2015
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/ones/shashi-tharoor-pax-indica.jpg
+thumb: http://data.oxfordindiasociety.org.uk/thumbnails/ones/shashi-tharoor-pax-indica.png
 ---
 
 Oxford India Society along with St Antony’s College Asian Study Centre 
