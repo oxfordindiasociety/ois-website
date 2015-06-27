@@ -3,7 +3,7 @@ name: Pranoy Raul
 title: External Relations
 image: pranoy.jpg
 email: contact
-order: 6
+order: 5
 ---
 
 Pranoy is reading for a DPhil in Engineering Science at Oxford. He clambers his way through the second year attempting to make some sense of the turbulence in jet engines (Ordo Ab Chao). A mechanical engineer by heart, he is a strong proponent of the intrinsically Indian technique of Jugaad.

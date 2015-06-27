@@ -3,7 +3,7 @@ name: Sounak Sahu
 title: Publicity
 image: sounak.jpg
 email: publicity
-order: 11
+order: 12
 ---
 
 Sounak Sahu is a Clarendon Scholar and studying D.Phil in  Zoology (1st Year) at University of Oxford. Presently in Oxford he is the 1st Year Academic Rep. of the Zoology Graduate Consultancy Committee and also in-charge of the publication of the fortnightly issue of Oxford Zoology Graduate Newsletter ( Tinbergen Times). 
