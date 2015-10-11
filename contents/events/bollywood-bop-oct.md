@@ -12,9 +12,8 @@ We are exited to announce the last Bollywood bop of the year. For those who are 
 Entry: £4 at pre-registration, Contact Madhav Kumar  
 Drop him a Facebook message at https://www.facebook.com/madhav.kumar.562?fref=ts 
   or email him at  madhav.kumar@materials.ox.ac.uk)
-
       Or
-    £5 at the gate
+£5 at the gate
 
 Drinks at happy hours and relatively cheaper prices. Hope to see you all soon!  
 
