@@ -3,7 +3,7 @@ title: Bollywood BOP
 location: Emporium (Camera Club), St Ebbes Street
 event-time: 10 PM
 category: social
-date: March 04, 2015
+date: March 04, 2016
 thumb: 
 ---
 

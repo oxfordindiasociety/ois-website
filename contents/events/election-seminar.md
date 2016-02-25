@@ -3,7 +3,7 @@ title: An Undocumented Wonder - the Making of the Great Indian Election.
 location: St Antony's College, Oxford
 event-time: 5.00pm
 category: Seminar
-date: March 07,2015
+date: March 07, 2016
 thumb: 
 ---
 
