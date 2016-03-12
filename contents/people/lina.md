@@ -1,7 +1,7 @@
 ---
 name: Lina Lee
 title: External Relations
-image: Lina.jpg
+image: Lina.jpeg
 email: contact
 order: 4
 ---
