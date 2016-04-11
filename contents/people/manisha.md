@@ -1,7 +1,7 @@
 ---
 name: Manisha Jalan
 title: External Relations
-image: Manisha.jpg
+image: Manisha.tif
 email: contact
 order: 3
 ---
