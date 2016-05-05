@@ -13,4 +13,5 @@ Date & time : Saturday,14 May 2016, 9PM to 1AM
 Venue: St Antony’s College
 Entry fee: £5 (£3 for St Antony’s College members)
 Enquiries: Madhav Kumar https://www.facebook.com/madhav.kumar.562
+Facebook link: https://www.facebook.com/events/1791140741107744/
 
