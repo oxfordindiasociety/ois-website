@@ -1,6 +1,6 @@
 ---
 title: Bollywood BOP
-location: St Antony's College, Oxford , 62 Woodstock Road, OX2 6JX Oxford, United Kingdom
+location: St Antony's College, Oxford , 62 Woodstock Road, OX2 6JF Oxford, United Kingdom
 event-time: 9PM to 1AM
 category: social
 date: May 14, 2016
