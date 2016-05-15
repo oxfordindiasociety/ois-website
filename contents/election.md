@@ -37,11 +37,13 @@ Additionally, we are calling for nominations for the following non-executive pos
 
 Nomination guidelines
 
-    People can nominate themselves for multiple positions but finally be elected for only ONE post
-    The deadline for receiving nominations is Monday, 16th May 2016, 2359 Hrs. 
-    All nominations should be sent to indian.society@studentclubs.ox.ac.uk
-    Nomination email subject should be as follows - "NOMINATION for <YOUR NAME> for <POSITION>" 
-    Nomination email body should ideally have a short bio and the reason you are applying for this post (not more than 200 words). This will be shared with the society members during polling phase.
+   
+1.       Nominations open for President (1), Secretary (1), Treasurer (1), Systems Manager (2), External Relations Manager (2), Events Manager (2), Publicity Manager (2), Sports Manager (2).
+2.       People can nominate themselves for multiple positions but finally be elected for only ONE post
+3.       The deadline for receiving nominations is Sunday, 16th May 2016, 2359 Hrs.
+4.       All nominations should be sent to indian.society@studentclubs.ox.ac.uk
+5.       Nomination email subject should be as follows - "NOMINATION for <YOUR NAME> for <POSITION>"
+6.       Nomination email body should ideally have a short bio and the reason you are applying for this post (not more than 200 words). This will be shared with the society members during polling phase. Please attach a profile pic as well.
 
  
 
