@@ -35,7 +35,7 @@ Additionally, we are calling for nominations for the following non-executive pos
 
 *Sports Manager (2 positions): OIS has special focus on its sports and Sports Managers will conduct variety of sport events throughout the year to encourage healthy participation from the society members.
 
-Nomination guidelines
+<h3>Nomination guidelines</h3>
 
    
 1.       Nominations open for President (1), Secretary (1), Treasurer (1), Systems Manager (2), External Relations Manager (2), Events Manager (2), Publicity Manager (2), Sports Manager (2).
