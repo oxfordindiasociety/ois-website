@@ -4,7 +4,7 @@
 
 
 
-Dear Members, 
+<b>Dear Members</b>, 
 
 In light of recent events, Oxford India Society is conducting elections to select its committee for the remaining term (until end of Michaelmas Term 2016). 
 
