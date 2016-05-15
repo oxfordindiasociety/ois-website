@@ -49,12 +49,12 @@ Additionally, we are calling for nominations for the following non-executive pos
 
 <h2>Timeline for the elections (unless any unforeseen circumstances occur) - </h2>
 
-    Election communication and start of nominations  - 7th May 2016 
-    Deadline for nominations – 16th May 2016 2359 Hrs
-    Voting opens – 17th May 2016
-    Voting closes – 23rd May 2016 2359 Hrs
-    Communication of results – 24th May 2016
-    First Meeting with new committee – 24th May 2016 2030 Hrs
+ 1. Election communication and start of nominations  - 7th May 2016 
+ 2. Deadline for nominations – 16th May 2016 2359 Hrs
+ 3. Voting opens – 17th May 2016
+ 4. Voting closes – 23rd May 2016 2359 Hrs
+ 5. Communication of results – 24th May 2016
+ 6. First Meeting with new committee – 24th May 2016 2030 Hrs
     
 
 Please feel free to write to us if you may want to regarding the upcoming elections. 
