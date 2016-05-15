@@ -44,7 +44,6 @@ Additionally, we are calling for nominations for the following non-executive pos
 4.       All nominations should be sent to <b>indian.society@studentclubs.ox.ac.uk</b>
 5.       Nomination email subject should be as follows - "NOMINATION for &lt; YOUR NAME &gt; for &lt; POSITION &gt;"
 6.       Nomination email body should ideally have a short bio and the reason you are applying for this post (not more than 200 words). This will be shared with the society members during polling phase. Please attach a profile pic as well.
-7.       Voting opens on <b>17 May 2016.</b>
 
  
 
@@ -52,10 +51,11 @@ Additionally, we are calling for nominations for the following non-executive pos
 
     Election communication and start of nominations  - 7th May 2016 
     Deadline for nominations – 16th May 2016 2359 Hrs
-    Voting opens – 16th May 2016
+    Voting opens – 17th May 2016
     Voting closes – 23rd May 2016 2359 Hrs
     Communication of results – 24th May 2016
     First Meeting with new committee – 24th May 2016 2030 Hrs
+    
 
 Please feel free to write to us if you may want to regarding the upcoming elections. 
 
