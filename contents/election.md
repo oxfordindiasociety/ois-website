@@ -60,4 +60,4 @@ Please feel free to write to us if you may want to regarding the upcoming electi
 
 Best wishes,
 
-Nakul Agrawal and Ankit Shah (Returning Officers for OIS elections)
+<mailto:treasurer@oxfordindiasociety.org.uk>Nakul Agrawal and <mailto:president@oxfordindiasociety.org.uk> Shah (Returning Officers for OIS elections)
