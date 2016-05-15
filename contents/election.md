@@ -1,6 +1,6 @@
 # Election
 
-**If you have not received this communication through OIS mailing list (indian.society@studentclubs.ox.ac.uk) earlier, please write a mail to IT Officer – Paritosh Mittal (paritosh.mittal@kellogg.ox.ac.uk) with a copy to indian.society@studentclubs.ox.ac.uk to get registered to our mailing list. Apologies for the inconvenience
+<b>**If you have not received this communication through OIS mailing list (indian.society@studentclubs.ox.ac.uk) earlier, please write a mail to IT Officer – Paritosh Mittal (paritosh.mittal@kellogg.ox.ac.uk) with a copy to indian.society@studentclubs.ox.ac.uk to get registered to our mailing list. Apologies for the inconvenience
 
 
 
