@@ -42,7 +42,7 @@ Additionally, we are calling for nominations for the following non-executive pos
 2.       People can nominate themselves for multiple positions but finally be elected for only ONE post
 3.       The deadline for receiving nominations is <b>Sunday, 16th May 2016, 2359 Hrs.</b>
 4.       All nominations should be sent to <b>indian.society@studentclubs.ox.ac.uk</b>
-5.       Nomination email subject should be as follows - "NOMINATION for (<YOUR NAME>) for (<POSITION>)"
+5.       Nomination email subject should be as follows - "NOMINATION for &lt YOUR NAME &gt for &lt POSITION &gt"
 6.       Nomination email body should ideally have a short bio and the reason you are applying for this post (not more than 200 words). This will be shared with the society members during polling phase. Please attach a profile pic as well.
 
  
