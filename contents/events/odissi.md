@@ -13,7 +13,7 @@ So join us on this journey where we reinterpret themes of freedom and happiness 
 
 The festival will feature India's most renowned dancer and choreographer, Padma Shri Guru Ileana Citaristi followed by a troupe of young elegant artistes.
 
-Tickets will be available from 6th May, 2000 Hrs
+Tickets: https://try.tilt.com/oxford-odissi
 
 Supported By: http://www.nehrucentre.org.uk/
 
