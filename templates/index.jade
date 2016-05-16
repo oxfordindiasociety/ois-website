@@ -19,11 +19,11 @@ block main
       img(src='http://data.oxfordindiasociety.org.uk/photos/carousel/formal-dinner.jpg')
     .item
       img(src='http://data.oxfordindiasociety.org.uk/photos/carousel/ois-background.png')
-  .container.blurb
-    h3!= contents['front-page-intro.md'].html
   .container.subscribe
     p
       a(href='http://register.oxfordindiasociety.org.uk/') Join us
       |  or visit our 
       a(href='http://facebook.com/oxfordindiasociety') Facebook page
-
+  .container.blurb
+    h3!= contents['front-page-intro.md'].html
+  
