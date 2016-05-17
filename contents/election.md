@@ -30,7 +30,7 @@ PS: Please feel free to email me (sneha.menon@seh.ox.ac.uk) with any questions/s
 
 <h2>Secretary</h2>
 
-<img src="http://data.oxfordindiasociety.org.uk/thumbnails/2.Secretary_Niyati.jpg" style="width:130px;height:100px;"> 
+<img src="http://data.oxfordindiasociety.org.uk/thumbnails/2.Secretary_Niyati.jpg" style="width:100px;height:150px;"> 
 
 
 <a href = "mailto:niyati.gupta@st-annes.ox.ac.uk">Niyati Gupta</a>
@@ -38,7 +38,7 @@ Being a 1+1 MBA candidate has afforded me the opportunity to live the Oxford exp
 Working in the capacity of the OIS Secretary would allow me to not only help continue OIS initiatives like the speaker series events, debates, movie screenings and cultural events like Holi and music concerts but also introduce new once. Some ideas we can explore are: starting an annual Oxford India Conference to start cross disciplinary conversations and collaboration across sectors (perfect timing - the 70th Independence Day of India!); creating wider outreach for the OIS within the Oxford community and a stronger alumni network to foster relationships; and an “Experience India weekend”. If given this opportunity, I hope to represent the interest of all OIS members to the best of my abilities both within and outside the Oxford sphere.
 
 
-<img src="http://data.oxfordindiasociety.org.uk/thumbnails/2.Secretary_Sparshita.jpg"  style="width:100px;height:130px;"> 
+<img src="http://data.oxfordindiasociety.org.uk/thumbnails/2.Secretary_Sparshita.jpg"  style="width:100px;height:150px;"> 
 
 
 <a href = "mailto:sparshita.dey@sjc.ox.ac.uk">Sparshita Dey </a>
