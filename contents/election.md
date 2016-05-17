@@ -70,7 +70,7 @@ My name is Siddharth Jayaprakash and I'm currently doing a Bachelor of Arts in J
 
 
 
-<img src="http://data.oxfordindiasociety.org.uk/thumbnails/4.Events_Sparshita.jpg" style="width:100px;height:130px">
+<img src="http://data.oxfordindiasociety.org.uk/thumbnails/4.Events_Sparshita.jpg" style="width:100px;height:150px">
 
 <a href = "mailto:sparshita.dey@sjc.ox.ac.uk">Sparshita Dey </a>
 The main reason for my interest in the OIS is to increase awareness of Indian culture through visual experiences of its characteristic features such as Classical Art forms, and various other aspects of the Indian cultural experience. I particularly feel that there is more scope of facilitating better interaction between the undergraduate and graduate communities with the same interests – namely HumSoc and OIS itself, and feel that bridging this gap may open many more opportunities including involvement in large-scale national events such as Battle of Bollywood – something I believe I can make happen being a First Year Physics Undergraduate at St. John’s. Currently I am choreographing for the Kathak aspect of the Odissi Dance fest, and wish to see many more such events being organized; being a part of OIS will, in my opinion allow a greater scope to popularize such events within Oxford. I have also had previous experience in similar, more subject related roles at school such as starting up a theoretical physics society from scratch, which was quite successful, as well as having an understanding in the requirements of the smooth running and planning of large scale events, having performed/been involved myself in various occasions. I think that I can apply similar techniques to successfully promote and further popularize the OIS.
@@ -111,6 +111,8 @@ My name is Soham Bandyopadhyay, and I am about to start my 3rd year of Medical S
 
 <a href = "mailto:utsav.popat@balliol.ox.ac.uk"> Utsav Popat </a>
 My name is Utsav Popat and I study Mathematics and Computer Science at Balliol College. This means that while I share a love-hate relationship with my computer, we usually sort out our differences before a problem sheet is due (albeit after much coaxing and promises of lavish gifts on my behalf). Apart from this 'connection' with my computer, I also have experience in the field of IT Support. I provided Tech Support as an intern at a stock broking firm - writing scripts/macros to help with daily tasks, maintaining and modifying the company's website, and aiding in the establishment of a new IT infrastructure in the organization. If elected, I will focus on working with the other IT officer to ensure that the mailing list does not encounter any more errors so that we can welcome the new students in a hassle free manner, come Michelmas.
+
+<hr>
 
 <h2> Timeline for the elections </h2>
 1.	Voting opens – 17th May 2016
