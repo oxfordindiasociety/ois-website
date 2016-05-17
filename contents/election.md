@@ -112,7 +112,7 @@ My name is Soham Bandyopadhyay, and I am about to start my 3rd year of Medical S
 <a href = "mailto:utsav.popat@balliol.ox.ac.uk"> Utsav Popat </a>
 My name is Utsav Popat and I study Mathematics and Computer Science at Balliol College. This means that while I share a love-hate relationship with my computer, we usually sort out our differences before a problem sheet is due (albeit after much coaxing and promises of lavish gifts on my behalf). Apart from this 'connection' with my computer, I also have experience in the field of IT Support. I provided Tech Support as an intern at a stock broking firm - writing scripts/macros to help with daily tasks, maintaining and modifying the company's website, and aiding in the establishment of a new IT infrastructure in the organization. If elected, I will focus on working with the other IT officer to ensure that the mailing list does not encounter any more errors so that we can welcome the new students in a hassle free manner, come Michelmas.
 
-<HR SIZE="6">
+<hr size="10">
 
 <h1> Timeline for the elections </h1>
 1.	Voting opens – 17th May 2016
