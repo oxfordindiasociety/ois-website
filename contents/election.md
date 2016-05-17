@@ -30,7 +30,7 @@ PS: Please feel free to email me (sneha.menon@seh.ox.ac.uk) with any questions/s
 
 <h2>Secretary</h2>
 
-<img src="http://data.oxfordindiasociety.org.uk/thumbnails/2.Secretary_Niyati.jpg" style="width:130px;height:150px;"> 
+<img src="http://data.oxfordindiasociety.org.uk/thumbnails/2.Secretary_Niyati.jpg" style="width:130px;height:100px;"> 
 
 
 <a href = "mailto:niyati.gupta@st-annes.ox.ac.uk">Niyati Gupta</a>
