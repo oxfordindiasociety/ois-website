@@ -8,7 +8,7 @@ Please read the pitches of the nominees below
 
 <h2> President </h2>
 
-<img src="http://data.oxfordindiasociety.org.uk/thumbnails/1.President_Maruthi.jpg" style="width:304px;height:228px;"> 
+<img src="http://data.oxfordindiasociety.org.uk/thumbnails/1.President_Maruthi.jpg" style="width:100px;height:100px;"> 
 
 <a href = "mailto:maruthi.malladi@univ.ox.ac.uk"> Maruthi Malladi </a>
 Maruthi is a 3rd year undergraduate studying Engineering Sciences. I am specializing into mechanical engineering. I was born in Hyderabad and has grown up partially in India and the UK. I am amateur Carnatic vocalist and violinist. I would like to see the Oxford India Society act as a platform for all Indians to share experiences and discussions on current affairs.
