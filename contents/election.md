@@ -1,6 +1,7 @@
 # Election
 
 Dear Members,
+
 We are happy to receive healthy nominations for the elections of Oxford India Society committee. Elections will be contested for the Executive positions only as the nominations for Non-executive committee positions are unopposed.
 You must have received voting link from Ballotbin [Subj - Oxford India Society Elections May 2016 | Mail id - ois.elections@gmail.com]
 In case of any issues, please write a mail to IT Officer – Paritosh Mittal (paritosh.mittal@kellogg.ox.ac.uk ) with a copy to indian.society@studentclubs.ox.ac.uk to seek clarifications. Apologies for the inconvenience
@@ -73,7 +74,9 @@ My name is Siddharth Jayaprakash and I'm currently doing a Bachelor of Arts in J
 
 <a href = "mailto:sparshita.dey@sjc.ox.ac.uk">Sparshita Dey </a>
 The main reason for my interest in the OIS is to increase awareness of Indian culture through visual experiences of its characteristic features such as Classical Art forms, and various other aspects of the Indian cultural experience. I particularly feel that there is more scope of facilitating better interaction between the undergraduate and graduate communities with the same interests – namely HumSoc and OIS itself, and feel that bridging this gap may open many more opportunities including involvement in large-scale national events such as Battle of Bollywood – something I believe I can make happen being a First Year Physics Undergraduate at St. John’s. Currently I am choreographing for the Kathak aspect of the Odissi Dance fest, and wish to see many more such events being organized; being a part of OIS will, in my opinion allow a greater scope to popularize such events within Oxford. I have also had previous experience in similar, more subject related roles at school such as starting up a theoretical physics society from scratch, which was quite successful, as well as having an understanding in the requirements of the smooth running and planning of large scale events, having performed/been involved myself in various occasions. I think that I can apply similar techniques to successfully promote and further popularize the OIS.
-External Relations Manager
+
+
+<h2>External Relations Manager</h2>
 
 <img src="http://data.oxfordindiasociety.org.uk/thumbnails/5.External Relations_Sachi.jpg" style="width:100px;height:100px;">
 
