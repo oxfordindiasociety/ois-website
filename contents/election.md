@@ -88,6 +88,10 @@ I am present in the first year of my DPhil. in International Development at St. 
 My name is Soham Bandyopadhyay, and I am about to start my 3rd year of Medical School at St Hilda's College. I would like to be Sports Manager to oversee the possibility of creating a cricket and badminton tournament between different universities and colleges, involving individuals who are part of ALL Asian societies. I would also like to actively engage Indian Society in the creation of an Oxford University Kabaddi team
 
 <h2>IT Manager</h2>
+
+<img src="http://data.oxfordindiasociety.org.uk/thumbnails/7.IT Manager_Utsav.PNG" style="width:100px;height:100px;"> 
+
+
 <a href = "mailto:utsav.popat@balliol.ox.ac.uk"> Utsav Popat </a>
 My name is Utsav Popat and I study Mathematics and Computer Science at Balliol College. This means that while I share a love-hate relationship with my computer, we usually sort out our differences before a problem sheet is due (albeit after much coaxing and promises of lavish gifts on my behalf). Apart from this 'connection' with my computer, I also have experience in the field of IT Support. I provided Tech Support as an intern at a stock broking firm - writing scripts/macros to help with daily tasks, maintaining and modifying the company's website, and aiding in the establishment of a new IT infrastructure in the organization. If elected, I will focus on working with the other IT officer to ensure that the mailing list does not encounter any more errors so that we can welcome the new students in a hassle free manner, come Michelmas.
 
