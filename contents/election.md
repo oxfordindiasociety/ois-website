@@ -114,7 +114,7 @@ My name is Utsav Popat and I study Mathematics and Computer Science at Balliol C
 
 <HR SIZE="6">
 
-<h2> Timeline for the elections </h2>
+<h1> Timeline for the elections </h1>
 1.	Voting opens – 17th May 2016
 2.	Voting closes – 23rd May 2016 2359 Hrs
 3.	Communication of results – 24th May 2016
