@@ -2,9 +2,12 @@
 
 Dear Members,
 
-We are happy to receive healthy nominations for the elections of Oxford India Society committee. Elections will be contested for the Executive positions only as the nominations for Non-executive committee positions are unopposed.
-You must have received voting link from Ballotbin <b>[Subj - Oxford India Society Elections May 2016 | Mail id - ois.elections@gmail.com]</b>
+We are happy to receive healthy nominations for the elections of Oxford India Society committee. <b>Elections will be contested for the Executive positions only as the nominations for Non-executive committee positions are unopposed.</b>
+
+You must have received voting link from <b>Ballotbin </b> [<b>Subj</b> - Oxford India Society Elections May 2016 | <b>Mail id</b> - ois.elections@gmail.com]
+
 In case of any issues, please write a mail to IT Officer – Paritosh Mittal (paritosh.mittal@kellogg.ox.ac.uk ) with a copy to indian.society@studentclubs.ox.ac.uk to seek clarifications. Apologies for the inconvenience
+
 Please read the pitches of the nominees below
 
 <div align="center"> <h2> President </h2></div>
@@ -13,6 +16,7 @@ Please read the pitches of the nominees below
 
 <a href = "mailto:maruthi.malladi@univ.ox.ac.uk"> Maruthi Malladi </a>
 Maruthi is a 3rd year undergraduate studying Engineering Sciences. I am specializing into mechanical engineering. I was born in Hyderabad and has grown up partially in India and the UK. I am amateur Carnatic vocalist and violinist. I would like to see the Oxford India Society act as a platform for all Indians to share experiences and discussions on current affairs.
+
  I have been involved with the OIS for over a year. I have worked as an events officer and helped out the committee. I feel that this experience is worth having to take up a position as the president of OIS into the next academic year. I have worked on multiple other committees such as the Engineers Without Borders, Engineering Society and the college JCR. These have taught me to be organized, manage time, responsible and see any task taken up to the end. I feel that I have these qualities making me a good candidate for president.
 
 <div align="center"><img src="http://data.oxfordindiasociety.org.uk/thumbnails/1.President_Sneha.png" style="width:100px;height:130px;"></div>
@@ -24,8 +28,11 @@ I am a graduate student of economics, at Teddy Hall, from Bombay.  My profession
 2.	An active blog/magazine/writ forum
 3.	Movie screenings and gigs (showcasing some of the Indian independent scene maybe)
 4.	Avenues to volunteer/collaborate with grass root organizations in India
+
 And of course if elected, I would first like to conduct a survey (what else can you expect from a social scientist right), to understand the OIS community and their expectations better, and also to crowdsource cool ideas. I have some experience with leading student organizations, and I usually work without much hierarchy and with lots of collaboration. 
+
 I imagine, that most of you like me see a greater purpose to our Oxford stints, over and above the length of the bibliography we manage to generate and I am contesting to be President, because I would like the OIS to be a small channel for this purpose. Thanks! 
+
 PS: Please feel free to email me (sneha.menon@seh.ox.ac.uk) with any questions/suggestions that you may have!
 
 <div align="center"><h2>Secretary</h2></div>
@@ -35,6 +42,7 @@ PS: Please feel free to email me (sneha.menon@seh.ox.ac.uk) with any questions/s
 
 <a href = "mailto:niyati.gupta@st-annes.ox.ac.uk">Niyati Gupta</a>
 Being a 1+1 MBA candidate has afforded me the opportunity to live the Oxford experience for two years instead of one. I am currently reading for my MSc. in Education (Learning and Technology) to be followed by the MBA programme starting September 2016. I hold an undergraduate in Business Administration after which I worked in education consulting and leadership development across public sector schools in rural India. Following this I co-founded a tech-startup to develop educational products for low income private schools. 
+
 Working in the capacity of the OIS Secretary would allow me to not only help continue OIS initiatives like the speaker series events, debates, movie screenings and cultural events like Holi and music concerts but also introduce new once. Some ideas we can explore are: starting an annual Oxford India Conference to start cross disciplinary conversations and collaboration across sectors (perfect timing - the 70th Independence Day of India!); creating wider outreach for the OIS within the Oxford community and a stronger alumni network to foster relationships; and an “Experience India weekend”. If given this opportunity, I hope to represent the interest of all OIS members to the best of my abilities both within and outside the Oxford sphere.
 
 
