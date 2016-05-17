@@ -3,7 +3,7 @@
 Dear Members,
 
 We are happy to receive healthy nominations for the elections of Oxford India Society committee. Elections will be contested for the Executive positions only as the nominations for Non-executive committee positions are unopposed.
-You must have received voting link from Ballotbin [Subj - Oxford India Society Elections May 2016 | Mail id - ois.elections@gmail.com]
+You must have received voting link from Ballotbin <b>[Subj - Oxford India Society Elections May 2016 | Mail id - ois.elections@gmail.com]</b>
 In case of any issues, please write a mail to IT Officer – Paritosh Mittal (paritosh.mittal@kellogg.ox.ac.uk ) with a copy to indian.society@studentclubs.ox.ac.uk to seek clarifications. Apologies for the inconvenience
 Please read the pitches of the nominees below
 
