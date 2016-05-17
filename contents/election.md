@@ -14,7 +14,7 @@ Please read the pitches of the nominees below
 Maruthi is a 3rd year undergraduate studying Engineering Sciences. I am specializing into mechanical engineering. I was born in Hyderabad and has grown up partially in India and the UK. I am amateur Carnatic vocalist and violinist. I would like to see the Oxford India Society act as a platform for all Indians to share experiences and discussions on current affairs.
  I have been involved with the OIS for over a year. I have worked as an events officer and helped out the committee. I feel that this experience is worth having to take up a position as the president of OIS into the next academic year. I have worked on multiple other committees such as the Engineers Without Borders, Engineering Society and the college JCR. These have taught me to be organized, manage time, responsible and see any task taken up to the end. I feel that I have these qualities making me a good candidate for president.
 
-<img src="http://data.oxfordindiasociety.org.uk/thumbnails/1.President_Sneha.png" style="width:100px;height:100px;">
+<img src="http://data.oxfordindiasociety.org.uk/thumbnails/1.President_Sneha.png" style="width:100px;height:130px;">
 
 
 <a href = "mailto:sneha.menon@seh.ox.ac.uk">Sneha Menon </a>
