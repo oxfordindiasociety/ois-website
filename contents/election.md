@@ -24,6 +24,7 @@ Maruthi is a 3rd year undergraduate studying Engineering Sciences. I am speciali
 
 
 <div align="center"><a href = "mailto:sneha.menon@seh.ox.ac.uk">Sneha Menon </a></div>
+
 I am a graduate student of economics, at Teddy Hall, from Bombay.  My professional background is in the socio-economic policy research and my academic background is in math and statistics. Along with the seminars and social events already characteristic of the OIS, the few initiatives that I would be interested in facilitating, are
 1.	A space for informal discussions, reading groups etc.
 2.	An active blog/magazine/writ forum
