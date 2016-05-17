@@ -121,6 +121,7 @@ My name is Utsav Popat and I study Mathematics and Computer Science at Balliol C
 4.	First Meeting with new committee – 24th May 2016 2030 Hrs
 
 Please feel free to write to us if you may want to regarding the upcoming elections.
+
 Best wishes,
 
 <a href = "mailto:treasurer@oxfordindiasociety.org.uk">Nakul Agrawal </a> and <a href ="mailto:president@oxfordindiasociety.org.uk"> Ankit Shah </a> (Returning Officers for OIS elections)
