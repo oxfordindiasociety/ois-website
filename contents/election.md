@@ -37,7 +37,7 @@ Being a 1+1 MBA candidate has afforded me the opportunity to live the Oxford exp
 Working in the capacity of the OIS Secretary would allow me to not only help continue OIS initiatives like the speaker series events, debates, movie screenings and cultural events like Holi and music concerts but also introduce new once. Some ideas we can explore are: starting an annual Oxford India Conference to start cross disciplinary conversations and collaboration across sectors (perfect timing - the 70th Independence Day of India!); creating wider outreach for the OIS within the Oxford community and a stronger alumni network to foster relationships; and an “Experience India weekend”. If given this opportunity, I hope to represent the interest of all OIS members to the best of my abilities both within and outside the Oxford sphere.
 
 
-<img src="http://data.oxfordindiasociety.org.uk/thumbnails/2.Secretary_Sparshita.jpg"> 
+<img src="http://data.oxfordindiasociety.org.uk/thumbnails/2.Secretary_Sparshita.jpg"  style="width:100px;height:130px;"> 
 
 
 <a href = "mailto:sparshita.dey@sjc.ox.ac.uk">Sparshita Dey </a>
@@ -69,7 +69,7 @@ My name is Siddharth Jayaprakash and I'm currently doing a Bachelor of Arts in J
 
 
 
-<img src="http://data.oxfordindiasociety.org.uk/thumbnails/4.Events_Sparshita.jpg" style="width:100px;height:100px">
+<img src="http://data.oxfordindiasociety.org.uk/thumbnails/4.Events_Sparshita.jpg" style="width:100px;height:130px">
 
 <a href = "mailto:sparshita.dey@sjc.ox.ac.uk">Sparshita Dey </a>
 The main reason for my interest in the OIS is to increase awareness of Indian culture through visual experiences of its characteristic features such as Classical Art forms, and various other aspects of the Indian cultural experience. I particularly feel that there is more scope of facilitating better interaction between the undergraduate and graduate communities with the same interests – namely HumSoc and OIS itself, and feel that bridging this gap may open many more opportunities including involvement in large-scale national events such as Battle of Bollywood – something I believe I can make happen being a First Year Physics Undergraduate at St. John’s. Currently I am choreographing for the Kathak aspect of the Odissi Dance fest, and wish to see many more such events being organized; being a part of OIS will, in my opinion allow a greater scope to popularize such events within Oxford. I have also had previous experience in similar, more subject related roles at school such as starting up a theoretical physics society from scratch, which was quite successful, as well as having an understanding in the requirements of the smooth running and planning of large scale events, having performed/been involved myself in various occasions. I think that I can apply similar techniques to successfully promote and further popularize the OIS.
