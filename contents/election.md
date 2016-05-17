@@ -7,7 +7,7 @@ You must have received voting link from Ballotbin [Subj - Oxford India Society E
 In case of any issues, please write a mail to IT Officer – Paritosh Mittal (paritosh.mittal@kellogg.ox.ac.uk ) with a copy to indian.society@studentclubs.ox.ac.uk to seek clarifications. Apologies for the inconvenience
 Please read the pitches of the nominees below
 
-<h2> President </h2>
+<div align="center"> <h2> President </h2></div>
 
 <img src="http://data.oxfordindiasociety.org.uk/thumbnails/1.President_Maruthi.jpg" style="width:100px;height:100px;"> 
 
@@ -28,7 +28,7 @@ And of course if elected, I would first like to conduct a survey (what else can 
 I imagine, that most of you like me see a greater purpose to our Oxford stints, over and above the length of the bibliography we manage to generate and I am contesting to be President, because I would like the OIS to be a small channel for this purpose. Thanks! 
 PS: Please feel free to email me (sneha.menon@seh.ox.ac.uk) with any questions/suggestions that you may have!
 
-<h2>Secretary</h2>
+<div align="center"><h2>Secretary</h2></div>
 
 <img src="http://data.oxfordindiasociety.org.uk/thumbnails/2.Secretary_Niyati.jpg" style="width:100px;height:150px;"> 
 
@@ -44,7 +44,7 @@ Working in the capacity of the OIS Secretary would allow me to not only help con
 <a href = "mailto:sparshita.dey@sjc.ox.ac.uk">Sparshita Dey </a>
 The main reason for my interest in the OIS is to increase awareness of Indian culture through visual experiences of its characteristic features such as Classical Art forms, and various other aspects of the Indian cultural experience. I particularly feel that there is more scope of facilitating better interaction between the undergraduate and graduate communities with the same interests – namely HumSoc and OIS itself, and feel that bridging this gap may open many more opportunities including involvement in large-scale national events such as Battle of Bollywood – something I believe I can make happen being a First Year Physics Undergraduate at St. John’s. Currently I am choreographing for the Kathak aspect of the Odissi Dance fest, and wish to see many more such events being organized; being a part of OIS will, in my opinion allow a greater scope to popularize such events within Oxford. I have also had previous experience in similar, more subject related roles at school such as starting up a theoretical physics society from scratch, which was quite successful, as well as having an understanding in the requirements of the smooth running and planning of large scale events, having performed/been involved myself in various occasions. I think that I can apply similar techniques to successfully promote and further popularize the OIS.
 
-<h2>Treasurer</h2>
+<div align="center"><h2>Treasurer</h2></div>
 
 
 <img src="http://data.oxfordindiasociety.org.uk/thumbnails/3.Treasurer_Sachi.jpg" style="width:100px;height:100px;">
@@ -60,7 +60,7 @@ Sachi Patel is a 3rd year DPhil student exploring the relationship between polit
 <a href = "mailto:utsav.popat@balliol.ox.ac.uk">Utsav Popat </a>
 My name is Utsav Popat and I study Mathematics and Computer Science at Balliol College. I believe that I have the requisite experience to serve effectively as the Treasurer of our Society - having served as the Treasurer of OUSU's International Students' Campaign. Hence, apart from having knowledge of the financial side of an International Society at Oxford, I am well versed with the formats and the requirements of the paperwork required by Proctors - a key role for the post. Furthermore, I am a part of the Publicity and Funding Committee of Oxford Nightline. I work with a team to find new avenues of funding for the organisation and achieving more interaction from the general student body. If elected as Treasurer, I firmly believe that these experiences will hold me in good stead and aid me in living up to the expectations - if not exceed them - that come with this position.
 
-<h2>Events Manager</h2>
+<div align="center"><h2>Events Manager</h2></div>
 
 <img src="http://data.oxfordindiasociety.org.uk/thumbnails/4.Events Manager_Siddharth.jpg" style="width:100px;height:100px;">
 
@@ -76,7 +76,7 @@ My name is Siddharth Jayaprakash and I'm currently doing a Bachelor of Arts in J
 The main reason for my interest in the OIS is to increase awareness of Indian culture through visual experiences of its characteristic features such as Classical Art forms, and various other aspects of the Indian cultural experience. I particularly feel that there is more scope of facilitating better interaction between the undergraduate and graduate communities with the same interests – namely HumSoc and OIS itself, and feel that bridging this gap may open many more opportunities including involvement in large-scale national events such as Battle of Bollywood – something I believe I can make happen being a First Year Physics Undergraduate at St. John’s. Currently I am choreographing for the Kathak aspect of the Odissi Dance fest, and wish to see many more such events being organized; being a part of OIS will, in my opinion allow a greater scope to popularize such events within Oxford. I have also had previous experience in similar, more subject related roles at school such as starting up a theoretical physics society from scratch, which was quite successful, as well as having an understanding in the requirements of the smooth running and planning of large scale events, having performed/been involved myself in various occasions. I think that I can apply similar techniques to successfully promote and further popularize the OIS.
 
 
-<h2>External Relations Manager</h2>
+<div align="center"><h2>External Relations Manager</h2></div>
 
 <img src="http://data.oxfordindiasociety.org.uk/thumbnails/5.External Relations_Sachi.jpg" style="width:100px;height:100px;">
 
@@ -96,7 +96,7 @@ My name is Siddharth Jayaprakash and I'm currently doing a Bachelor of Arts in J
 <a href = "mailto:soumya.mishra@sant.ox.ac.uk"> Soumya Mishra</a>
 I am present in the first year of my DPhil. in International Development at St. Antony’s College and the present Vice-President of Welfare in the College GCR. I’m closely involved with the Oxford Odissi Centre and presently working as a Secretary for the Centre. From Michelmas 2016 to Hilary 2017, I will be conducting fieldwork in India which gives me a platform to connect with organizations in India and for coordinating with agencies that will be contributing to OIS, such as getting in touch with speakers based in India, or approaching institutions that can be potential partners of OIS. Once back to Oxford, I wish to host Speaker events in 2017 - celebrating 70 years of Indian Independence. 
 
-<h2>Sports Manager</h2>
+<div align="center"><h2>Sports Manager</h2></div>
 
 <img src="http://data.oxfordindiasociety.org.uk/thumbnails/6.Sports_Soham.jpg" style="width:100px;height:100px;">
 
@@ -104,7 +104,7 @@ I am present in the first year of my DPhil. in International Development at St. 
 <a href = "mailto:soham.bandyopadhyay@st-hildas.ox.ac.uk"> Soham Bandyopadhyay</a>
 My name is Soham Bandyopadhyay, and I am about to start my 3rd year of Medical School at St Hilda's College. I would like to be Sports Manager to oversee the possibility of creating a cricket and badminton tournament between different universities and colleges, involving individuals who are part of ALL Asian societies. I would also like to actively engage Indian Society in the creation of an Oxford University Kabaddi team
 
-<h2>IT Manager</h2>
+<div align="center"><h2>IT Manager</h2></div>
 
 <img src="http://data.oxfordindiasociety.org.uk/thumbnails/7.IT Manager_Utsav.PNG" style="width:100px;height:100px;"> 
 
