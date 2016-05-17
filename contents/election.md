@@ -65,6 +65,7 @@ My name is Utsav Popat and I study Mathematics and Computer Science at Balliol C
 2.	Voting closes – 23rd May 2016 2359 Hrs
 3.	Communication of results – 24th May 2016
 4.	First Meeting with new committee – 24th May 2016 2030 Hrs
+
 Please feel free to write to us if you may want to regarding the upcoming elections.
 Best wishes,
 
