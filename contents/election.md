@@ -16,7 +16,7 @@ Please read the pitches of the nominees below
 
 <div align="center"><a href = "mailto:maruthi.malladi@univ.ox.ac.uk"> Maruthi Malladi </a></div>
 
-Maruthi is a 3rd year undergraduate studying Engineering Sciences. I am specializing into mechanical engineering. I was born in Hyderabad and has grown up partially in India and the UK. I am amateur Carnatic vocalist and violinist. I would like to see the Oxford India Society act as a platform for all Indians to share experiences and discussions on current affairs.
+HI I am Maruthi, a 3rd year undergraduate studying Engineering Sciences. I am specializing into mechanical engineering. I was born in Hyderabad and has grown up partially in India and the UK. I am amateur Carnatic vocalist and violinist. I would like to see the Oxford India Society act as a platform for all Indians to share experiences and discussions on current affairs.
 
  I have been involved with the OIS for over a year. I have worked as an events officer and helped out the committee. I feel that this experience is worth having to take up a position as the president of OIS into the next academic year. I have worked on multiple other committees such as the Engineers Without Borders, Engineering Society and the college JCR. These have taught me to be organized, manage time, responsible and see any task taken up to the end. I feel that I have these qualities making me a good candidate for president.
 
@@ -117,7 +117,7 @@ My name is Siddharth Jayaprakash and I'm currently doing a Bachelor of Arts in J
 
 <div align="center"><a href = "mailto:soumya.mishra@sant.ox.ac.uk"> Soumya Mishra</a></div>
 
-I am present in the first year of my DPhil. in International Development at St. Antony’s College and the present Vice-President of Welfare in the College GCR. I’m closely involved with the Oxford Odissi Centre and presently working as a Secretary for the Centre. From Michelmas 2016 to Hilary 2017, I will be conducting fieldwork in India which gives me a platform to connect with organizations in India and for coordinating with agencies that will be contributing to OIS, such as getting in touch with speakers based in India, or approaching institutions that can be potential partners of OIS. Once back to Oxford, I wish to host Speaker events in 2017 - celebrating 70 years of Indian Independence. 
+I am presently in the first year of my DPhil. in International Development at St. Antony’s College and the present Vice-President of Welfare in the College GCR. I’m closely involved with the Oxford Odissi Centre and presently working as a Secretary for the Centre. From Michelmas 2016 to Hilary 2017, I will be conducting fieldwork in India which gives me a platform to connect with organizations in India and for coordinating with agencies that will be contributing to OIS, such as getting in touch with speakers based in India, or approaching institutions that can be potential partners of OIS. Once back to Oxford, I wish to host Speaker events in 2017 - celebrating 70 years of Indian Independence. 
 
 <div align="center"><h2>Sports Manager</h2></div>
 
