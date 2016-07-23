@@ -1,7 +1,7 @@
 ---
 name: Maruthi Malladi
 title: Events
-image: maruthi.jpg
+image: Maruthi.JPG
 email: events
 order: 5
 ---
