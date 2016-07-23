@@ -1,7 +1,7 @@
 ---
 name: Madhav Kumar
 title: Events
-image: Madhav.jpg
+image: 
 email: events
 order: 4
 ---
