@@ -1,9 +1,9 @@
 ---
 name: Madhav Kumar
 title: Events
-image: madhav.jpg
+image: Madhav.jpg
 email: events
-order: 8
+order: 4
 ---
 
 Madhav is a post-doc in Material science and engineering. He is an experimentalist and works on advanced nanoelectronic engineering. Before undertaking his Doctorate course, he has completed his Master degree in Nanophysics, a joint programme between University Joseph Fourier - Grenoble, France and University of Texas - Austin, USA. He is the international representative of Linacre College. As a member of the events team in OIS he is interested in organizing various events and making them successful. 
