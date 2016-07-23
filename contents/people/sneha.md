@@ -1,6 +1,6 @@
 ---
 name: Sneha Menon
-title: President (Elected as Secretary)
+title: President
 image: Sneha.png
 email: president
 order: 1
