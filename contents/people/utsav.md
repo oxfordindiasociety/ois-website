@@ -1,7 +1,7 @@
 ---
 name: Utsav Popat
 title: IT
-image: Utsav.png
+image: Utsav.PNG
 email: it
 order: 9
 ---
