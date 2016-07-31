@@ -4,7 +4,6 @@ location: Seminar Room A, East Wing, Said Business School
 event-time: 6:30 PM
 category: seminar
 date: 21 June 2015
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/2015/parag-bhargava-talk.png
 ---
 
 Currently in India, we are face to face with many social challenges such as malnutrition, poverty, lack of holistic education, poor hygienic conditions etc., which have crippled the country. Unless the citizens own up the challenges being faced by the society, country and get together to address them the picture may remain more or less unchanged for next several decades. Oxford India Society would like to invite you to this talk by Prof. Parag Bhargava to initiate some conversations and actions in that direction.
