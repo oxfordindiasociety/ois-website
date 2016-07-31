@@ -4,7 +4,7 @@ location: St Antony's College, Oxford
 event-time: 5.00pm
 category: seminar
 date: March 07, 2016
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/undocumented.png
+
 ---
 
 The Oxford India Society and the Asian Studies Centre (St Antony’s College, University of Oxford) proudly presents The India Lecture 2016 - An Undocumented Wonder - the Making of the Great Indian Election.
