@@ -4,7 +4,6 @@ location: Corpus Christi College
 event-time: 6pm
 category: fundraising
 date: June 7, 2014
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/ones/fundraising-for-act-for-change.jpg
 ---
 
 OIS's first charity dinner at the Corpus Christi College dining hall, the
