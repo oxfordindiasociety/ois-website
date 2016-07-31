@@ -4,7 +4,6 @@ location: Varsity Club, High Street
 event-time: 9pm
 category: social
 date: February 21, 2014
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/bollywood-bop/bop.png
 ---
 
 Over 200 students danced to the tunes of popular movie songs till the wee
