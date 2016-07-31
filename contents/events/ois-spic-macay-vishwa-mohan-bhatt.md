@@ -4,7 +4,6 @@ location: Holywell Music Room
 event-time: 5.45pm
 category: cultural
 date: November 5, 2014
-thumb: http://data.oxfordindiasociety.org.uk/posters/pt-vishwa-mohan-bhatt.jpg
 ---
 
 Oxford India Society played host to Grammy Award winner
