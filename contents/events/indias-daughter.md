@@ -4,7 +4,6 @@ location: Bernard Sunley Theatre, St Catherine's college
 event-time: 4PM
 category: seminar
 date: May 2, 2015
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/indias-daughter/indias-daughter.jpg
 ---
 
 
