@@ -4,7 +4,7 @@ location: Exeter College
 event-time: 8am
 category: social
 date: May 16, 2014
-thumb: http://data.oxfordindiasociety.org.uk/photos/ones/election-screening.png
+
 ---
 
 Indian students watch the live coverage of the Lok Sabha election results
