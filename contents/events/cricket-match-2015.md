@@ -4,7 +4,7 @@ location: University Club, Mansfield Road, OX1 3SZ
 event-time: 2PM - 8PM
 category: social
 date: 7 June 2015
-thumb: http://data.oxfordindiasociety.org.uk/photos/cricket-match.jpg
+thumb: http://data.oxfordindiasociety.org.uk/photos/cricket-match/cricket_match.jpg
 ---
 
 Many congratulations to OUPaksoc for bagging the trophy this year in a
