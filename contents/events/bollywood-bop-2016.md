@@ -4,7 +4,7 @@ location: Emporium (Camera Club), St Ebbes Street
 event-time: 10 PM
 category: social
 date: March 04, 2016
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/bop-2016.jpg
+
 ---
 
 Oxford's biggest and most famous - The Bollywood BOP is back. 
