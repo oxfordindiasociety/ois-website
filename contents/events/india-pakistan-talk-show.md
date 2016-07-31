@@ -4,7 +4,6 @@ location: Doctorow Hall, St Edmund Hall, Oxford, OX1 4AR
 event-time: 5 PM
 category: seminar
 date: 20 June 2015
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/2015/india-pakistan-talk-show.png
 ---
 
 On the Front with Kamran Shahid
