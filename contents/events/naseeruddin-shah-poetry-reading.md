@@ -4,7 +4,6 @@ location: Shulman Auditorium, Queen's College
 event-time: 4.30pm
 category: cultural
 date: May 18, 2014
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/ones/naseeruddin_shah_ratna_pathak.jpg
 ---
 
 A reading of Vikram Seth's *Beastly Tales* by Naseeruddin Shah and
