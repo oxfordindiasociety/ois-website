@@ -4,7 +4,6 @@ location: Sheldonian Theatre
 event-time: 5:30 PM
 category: social
 date: October 20, 2015
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/2015/welcome_poster.png
 ---
 
 We are glad to invite you to the formal welcome reception for the incoming Indian students at the University of Oxford at Sheldonian Theatre on 20th October, 5:30 pm. We will be joined by Prof. Andrew Hamilton, Honourable Vice Chancellor of the University of Oxford & His Excellency Dr. Virander Paul, Deputy High Commissioner of the Republic of India to the UK.
