@@ -4,7 +4,6 @@ location: St Antony's College, Oxford , 62 Woodstock Road, OX2 6JF Oxford, Unite
 event-time: 9PM to 1AM
 category: social
 date: May 14, 2016
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/bop-2016-trinity.jpg
 ---
 
 Oxford India society in collaboration with St Antony’s College is back with the most famous and popular BOP #BollywoodBOP
