@@ -4,7 +4,7 @@ location: The VIP Basement, Emporium (previously known as Camera), 28 St Ebbes S
 event-time: 9 PM
 category: social
 date: October 24, 2015
-thumb: http://data.oxfordindiasociety.org.uk/thumbnails/2015/bollywood-bop-oct.png
+
 ---
 
 We are exited to announce the last Bollywood bop of the year. For those who are not aware about this famed bop, this is the only party in Oxford where you'll get to dance off to famous Bollywood numbers all night long. So put on your Indian outfits and dancing shoes and join us on the 24th to have a groovy start to the new academic year! 
