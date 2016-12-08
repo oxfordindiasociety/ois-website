@@ -32,11 +32,16 @@ html
           ul.nav.navbar-nav
             li
               a(href='/') Home
-            li
-              a(href='/about') About
-              li
-                a(href='/committee') Committee
-            li
+            li.dropdown
+              a.dropdown-toggle(href='#', data-toggle='dropdown')
+              | About 
+              b.caret
+                ul.dropdown-menu
+                  li
+                    a(href='/about') Our Philosophy
+                  li
+                    a(href='#') Committee
+            li 
               a(href='/events') Events
             li
               a(href='http://policyblog.oxfordindiasociety.org.uk') Policy Blog
