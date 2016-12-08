@@ -4,7 +4,7 @@ body {
 }
 
 .navbar-fixed-top {
-    color: white;
+    color: #ff0000;
     background-color: #060b59;
 }
 
@@ -24,7 +24,7 @@ p {
     font-weight: normal;
     margin-top: -10px;
     background: white;
-    color: #212121;
+    color: #ff0000;
     text-align: justify;
 }
 
