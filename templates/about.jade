@@ -6,7 +6,6 @@ block body
   h1 Committee
   .row
     .col-sm-6.col-md-12
-      h3 The Committee for 2015
       - var people = _.chain(contents['people']._.pages).sortBy(function(item) {
       -   return item.metadata.order;
       - }).value()
