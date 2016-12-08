@@ -48,8 +48,9 @@ div.category {
 
 div.carousel {
     background: white;
-    margin-bottom: -10px;
+    margin-bottom: 0px;
     padding: 0;
+    height: 300px;
 }
 
 img.committee {
