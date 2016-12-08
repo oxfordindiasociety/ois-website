@@ -3,6 +3,11 @@ body {
   background : white;
 }
 
+.navbar-custom {
+    color: white;
+    background-color: #060b59;
+}
+
 p {
     line-height: 1.5;
 }
