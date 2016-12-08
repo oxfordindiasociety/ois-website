@@ -1,11 +1,5 @@
 
 
-The University of Oxford has educated Indians since 1871. Since then, some of the most famous Indians, including two of India's Prime Ministers, Indira Gandhi and Dr. Manmohan Singh, have studied at Oxford. Moreover, Indians to have held academic posts include former President of India, Dr. Sarvepalli Radhakrishnan, Nobel Laureate Amartya Sen and India's Chief Scientific Advisor and Bharat Ratna recipient Prof. C.N.R. Rao. Today, Indians at Oxford are a thriving community, and Oxford India Society was established in 2003 to bring the community together and celebrate its diverse culture. OIS has since developed into a large and active student-run organization.
-
-
----------------------------------------------
-
-
 Our Values
 -------------
 
