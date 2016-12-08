@@ -19,7 +19,8 @@ p {
     font-weight: normal;
     margin-top: -10px;
     background: white;
-    color: #606060;
+    color: #212121;
+    text-align: justify;
 }
 
 .item img {
