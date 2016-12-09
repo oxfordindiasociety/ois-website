@@ -169,22 +169,23 @@ a.email { margin-left: 5px; color: cyan; font-size: 90%}
         font-size: 100%;
     }
 }
+/*
+div.gridimage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; 
+  width: calc(50% - 4px);
+} 
 
-//div.gridimage {
-//  display: flex;
-//  flex-wrap: wrap;
-//  justify-content: space-between; /* or space-around */
-//  width: calc(50% - 4px);
-//} 
+a.gridimage {
+  display: inline-block;
+  margin-bottom: 8px;
+  width: calc(50% - 4px);
+}
 
-//a.gridimage {
-//  display: inline-block;
-//  margin-bottom: 8px;
-//  width: calc(50% - 4px);
-//}
-
-//@media screen and (min-width: 50em) {
-//  a {
-//    width: calc(25% - 6px);
-//  }
-//}
+@media screen and (min-width: 50em) {
+  a {
+    width: calc(25% - 6px);
+  }
+}
+*/
