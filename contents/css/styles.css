@@ -169,23 +169,33 @@ a.email { margin-left: 5px; color: cyan; font-size: 90%}
         font-size: 100%;
     }
 }
-/*
+
 div.gridimage {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between; 
-  width: calc(50% - 4px);
-} 
+  font-size: 0;
+}
 
 a.gridimage {
+  font-size: 16px; 
   display: inline-block;
   margin-bottom: 8px;
   width: calc(50% - 4px);
+  margin-right: 8px;
+}
+
+a.gridimage:nth-of-type(2n) {
+  margin-right: 0;
 }
 
 @media screen and (min-width: 50em) {
   a {
     width: calc(25% - 6px);
   }
+
+  a.gridimage:nth-of-type(2n) {
+    margin-right: 8px;
+  }
+
+  a.gridimage:nth-of-type(4n) {
+    margin-right: 0;
+  }
 }
-*/
