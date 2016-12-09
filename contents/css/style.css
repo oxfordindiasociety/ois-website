@@ -49,8 +49,8 @@ div.category {
 div.carousel {
     background: white;
     margin-bottom: 0px;
-    padding: 0;
-    height: 500px;
+    padding-top: 10px;
+    height: 400px;
 }
 
 img.committee {
@@ -58,7 +58,7 @@ img.committee {
 }
 
 div.owl-carousel img {
-    height: 300px;
+    height: 400px;
 }
 .main {
     background: white;
