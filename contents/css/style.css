@@ -4,9 +4,7 @@ body {
 }
 
 .navbar-fixed-top {
-    color: #ff0000;
-   //background-color: #060b59;
-    background-color: white;
+    background-color: green;
 }
 
 p {
