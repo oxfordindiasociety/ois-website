@@ -43,5 +43,6 @@ $(document).ready(function() {
       hideAll();
       $(".sports").show();
     });
+    $('#fullpage').fullpage();
 
 });
