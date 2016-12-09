@@ -1,23 +1,13 @@
-extends layout2
+extends layout
 
+block title
+  title Oxford India Society - Committee
 block body
-  .service-wrappper
-    div
-      img(src='http://data.oxfordindiasociety.org.uk/photos/committee/Sneha.png', alt='My lol')
-    .service-wrapper-inner
-      h2 Sneha
-      p  "Owl"
-
-  .service-wrappper
-    div
-      img(src='http://data.oxfordindiasociety.org.uk/photos/committee/Sachi.jpg', alt='My lol')
-    .service-wrapper-inner
-      h2 Sachi
-      p  "Owl"
-
-  .service-wrappper
-    div
-      img(src='http://data.oxfordindiasociety.org.uk/photos/committee/Niyati.jpg', alt='My lol')
-    .service-wrapper-inner
-      h2 Niyati
-      p  "Owl"
+  h1 Committee
+  .row
+    .col-sm-6.col-md-12
+      - var people = _.chain(contents['people']._.pages).sortBy(function(item) {
+      -   return item.metadata.order;
+      - }).value()
+      each p in people
+        include partials/people
