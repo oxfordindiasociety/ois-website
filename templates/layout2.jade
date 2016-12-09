@@ -1,0 +1,73 @@
+doctype html
+html
+  head
+    meta(http-equiv='Content-Type', content='text/html; charset=UTF-8')
+    block title
+      title Oxford India Society
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(href='http://fonts.googleapis.com/css?family=Montserrat:400,700', rel='stylesheet', type='text/css')
+    link(rel='stylesheet', type='text/css', href='/css/bootstrap.min.css')
+    link(rel='stylesheet', type='text/css', href='/css/styles.css')
+    link(rel='stylesheet', type='text/css', href='/assets/slick/slick.css')
+    //link(rel='stylesheet', type='text/css', href='jquery.fullPage.css')
+    block js
+      script(src='/js/jquery-1.11.1.js')
+      script(src='/js/bootstrap.min.js')
+      script(type='text/javascript', src='/assets/slick/slick.min.js')
+      //script(src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js')
+      //script(type='text/javascript', src='jquery.fullPage.js')
+      // HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries
+      // WARNING: Respond.js doesn't work if you view the page via file://
+      //if lt IE 9
+        script(src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js')
+        script(src='https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js')
+  //#fullpage
+  //  .section Main
+  body
+    .navbar.navbar-inverse.navbar-fixed-top(role='navigation')
+      .container
+        .navbar-header
+          button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
+            span.sr-only Toggle navigation
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+          a.navbar-brand(href='/')<img src='http://data.oxfordindiasociety.org.uk/images/ois-logo.jpg'> 
+        .collapse.navbar-collapse
+          ul.nav.navbar-nav
+            li
+              a(href='/') Home
+            li.dropdown
+              a.dropdown-toggle(href='/committee', data-toggle='dropdown') 
+                | About
+                b.caret
+              ul.dropdown-menu
+                li
+                  a(href='/philosophy') Our Philosophy
+                li
+                  a(href='/committee') Committee
+            li 
+              a(href='/events') Events
+            li
+              a(href='http://policyblog.oxfordindiasociety.org.uk') Policy Blog
+            li
+              a(href='/contact') Contact us
+            //li
+            //  a(href='/contact') Contact us
+            //li
+            //  a(href='/election') Election
+        // /.nav-collapse
+    block main
+      .page-header.container
+        h1
+          | Oxford 
+          span(style='color:#f77402') I
+          | n
+          span(style='color:#010372') d
+          | i
+          span(style='color:#016d21') a
+          |  Society
+         br
+      .container.main
+        block body
+            p Nothing to see here
