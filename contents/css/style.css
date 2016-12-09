@@ -48,11 +48,12 @@ div.carousel {
     background: white;
     margin-bottom: 0px;
     padding-top: 10px;
-    height: 400px;
+    height: 250px;
 }
 
 img.committee {
-    width: 150px;
+    width: 200px;
+    height: 200px
 }
 
 div.owl-carousel img {
