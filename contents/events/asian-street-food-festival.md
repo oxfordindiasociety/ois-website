@@ -1,7 +1,7 @@
 ---
 title: Asian Street Food Festival
 location: Doctorow Hall, St. Edmund Hall
-event-time: 19:30
+event-time: 7PM
 category: cultural
 date: December 02, 2016
 thumb:

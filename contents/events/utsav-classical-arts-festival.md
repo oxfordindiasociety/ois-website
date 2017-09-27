@@ -1,7 +1,7 @@
 ---
 title: Utsav Festival - A Celebration of Indian Classical Arts
 location: St. John's College Auditorium
-event-time: 18:00
+event-time: 6PM
 category: cultural
 date: February 11, 2017
 thumb: http://data.oxfordindiasociety.org.uk/photos/utsav-2017/utsav-2017-singers

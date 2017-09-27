@@ -1,7 +1,7 @@
 ---
 title: Introduction to Indian Classical Music
 location: Graves Room, St. John's College
-event-time: 16:00
+event-time: 4PM
 category: social
 date: November 12, 2016
 thumb:

@@ -1,7 +1,7 @@
 ---
 title: Kabaddi Taster Session
 location: Christchurch Sports Ground
-event-time: 16:00
+event-time: 4PM
 category: social
 date: October 18, 2016
 thumb:

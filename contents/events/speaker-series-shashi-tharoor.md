@@ -1,7 +1,7 @@
 ---
 title: Oxford India Speaker Series - Dr. Shashi Tharoor
 location: Nissan Lecture Theatre, St. Anthony's College
-event-time: 17:00
+event-time: 5PM
 category: seminar
 date: March 01, 2017
 thumb: http://data.oxfordindiasociety.org.uk/photos/speaker-series/speaker-series-shashi-tharoor.jpg

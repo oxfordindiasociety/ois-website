@@ -1,7 +1,7 @@
 ---
 title: Bollywood Bop
 location: Emporium Club
-event-time: 22:00
+event-time: 10PM
 category: social
 date: November 19, 2016
 thumb:

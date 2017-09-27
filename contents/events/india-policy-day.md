@@ -1,7 +1,7 @@
 ---
 title: India Policy Day
 location: Pavilion Room, St. Anthony's College
-event-time: 13:00
+event-time: 1PM
 category: seminar
 date: November 26, 2016
 thumb:

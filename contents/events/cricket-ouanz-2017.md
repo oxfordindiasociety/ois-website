@@ -1,7 +1,7 @@
 ---
 title: OIS vs OUANZ Cricket Match
 location:  Oxford University Club
-event-time: 14:00
+event-time: 2PM
 category: social
 date: June 09, 2017
 thumb: http://data.oxfordindiasociety.org.uk/photos/cricket-matches-2017/ois-ouanz.jpg

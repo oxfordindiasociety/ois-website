@@ -1,7 +1,7 @@
 ---
 title: Diwali Dinner
 location: 4500 Miles From Delhi
-event-time: 19:30
+event-time: 7PM
 category: social
 date: October 30, 2016
 thumb: http://data.oxfordindiasociety.org.uk/photos/diwali-dinner-2016/diwali-dinner-2016.jpg

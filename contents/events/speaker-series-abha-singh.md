@@ -1,7 +1,7 @@
 ---
 title: Oxford India Speaker Series - Adv. Abha Singh
 location: Larkin Room, St. John's College
-event-time: 17:00
+event-time: 5PM
 category: seminar
 date: March 08, 2017
 thumb: http://data.oxfordindiasociety.org.uk/photos/speaker-series/speaker-series-abha-singh.jpg

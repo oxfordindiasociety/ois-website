@@ -1,7 +1,7 @@
 ---
 title: Oxford India Speaker Series - Dr. Aman Hingorani
 location: Seminar Room 1, St. Anne's College
-event-time: 17:00
+event-time: 5PM
 category: seminar
 date: February 28, 2017
 thumb: http://data.oxfordindiasociety.org.uk/photos/speaker-series/speaker-series-aman-hingorani.jpg

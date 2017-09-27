@@ -1,7 +1,7 @@
 ---
 title: Oxford India Speaker Series - Kailash Satyarthi
 location: Sultan Nazrin Shah Centre, Worcester College
-event-time: 17:00
+event-time: 5PM
 category: seminar
 date: April 25, 2017
 thumb: http://data.oxfordindiasociety.org.uk/photos/speaker-series/speaker-series-kailash-satyarthi.jpg

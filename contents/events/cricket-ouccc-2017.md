@@ -1,7 +1,7 @@
 ---
 title: OIS vs OUCCC Cricket Match
 location:  Oxford University Club
-event-time: 14:00
+event-time: 2PM
 category: social
 date: May 07, 2017
 thumb:
