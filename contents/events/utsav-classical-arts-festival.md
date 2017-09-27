@@ -4,7 +4,7 @@ location: St. John's College Auditorium
 event-time: 6PM
 category: cultural
 date: February 11, 2017
-thumb: http://data.oxfordindiasociety.org.uk/photos/utsav-2017/utsav-2017-singers
+thumb: https://data.oxfordindiasociety.org.uk/photos/utsav-2017/utsav-2017-singers
 ---
 
 Oxford India Performing Arts Centre presents [Utsav 2017](https://www.facebook.com/events/818802854925306/) : a showcase of the Indian Classical Arts (with elements of Bollywood and fusion to add a bit of a twist)!
