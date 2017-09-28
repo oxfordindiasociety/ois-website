@@ -4,7 +4,7 @@ location: Christchurch Sports Ground
 event-time: 4PM
 category: social
 date: October 18, 2016
-thumb:
+thumb: https://data.oxfordindiasociety.org.uk/photos/kabaddi-taster/kabaddi-taster.jpg
 ---
 
 Thinking about trying a new sport this term? Struggling to find a sport that can be played both casually and competitively at university? Well your search ends here.
