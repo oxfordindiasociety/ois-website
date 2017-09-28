@@ -4,7 +4,7 @@ location: Said Business School
 event-time: 5PM
 category: seminar
 date: June 13, 2017
-thumb: https://data.oxfordindiasociety.org.uk/photos/speaker-series/speaker-series-ajay-piramal.jpg
+thumb: http://data.oxfordindiasociety.org.uk/photos/speaker-series/speaker-series-ajay-piramal.jpg
 ---
 
 Oxford India Speaker Series and Saïd Business School are honoured to welcome Ajay G. Piramal, Chairman, Piramal Group & Shriram Group, to speak at Said Business School on Tuesday, June 13 2017.
