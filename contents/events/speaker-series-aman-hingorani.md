@@ -4,7 +4,7 @@ location: Seminar Room 1, St. Anne's College
 event-time: 5PM
 category: seminar
 date: February 28, 2017
-thumb: http://data.oxfordindiasociety.org.uk/photos/speaker-series/speaker-series-aman-hingorani.jpg
+thumb: https://data.oxfordindiasociety.org.uk/photos/speaker-series/speaker-series-aman-hingorani.jpg
 ---
 
 Dr. Aman Hingorani is a lawyer and mediator in the Supreme Court of India and the High Court of Delhi. His book "Unravelling the Kashmir Knot" backtracks into history to evaluate the Kashmir issue in light of British policies and strategic interests in the Indian subcontinuent. To unravel the Kashmir knot it is imperative to first depoliticize the issue and take recourse in legal analysis. This is what the book does with the help of comprehensive analysis of court rulings, UN papers, political observer reports and international law.

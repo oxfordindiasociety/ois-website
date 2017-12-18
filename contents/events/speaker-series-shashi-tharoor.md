@@ -4,7 +4,7 @@ location: Nissan Lecture Theatre, St. Anthony's College
 event-time: 5PM
 category: seminar
 date: March 01, 2017
-thumb: http://data.oxfordindiasociety.org.uk/photos/speaker-series/speaker-series-shashi-tharoor.jpg
+thumb: https://data.oxfordindiasociety.org.uk/photos/speaker-series/speaker-series-shashi-tharoor.jpg
 ---
 
 Dr. Shashi Tharoor returns to Oxford to after the captivating 2015 Oxford Union debate for the OIS Oxford India Speakers Series!

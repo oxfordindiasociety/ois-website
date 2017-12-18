@@ -4,7 +4,7 @@ location:  Oxford University Club
 event-time: 2PM
 category: social
 date: May 28, 2017
-thumb: http://data.oxfordindiasociety.org.uk/photos/cricket-matches-2017/ois-ousls.jpg
+thumb: https://data.oxfordindiasociety.org.uk/photos/cricket-matches-2017/ois-ousls.jpg
 ---
 
 We were defeated in the inaugural Tendulkar-Sangakkara Trophy.

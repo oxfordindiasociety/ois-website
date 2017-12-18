@@ -4,7 +4,7 @@ location: Merton College, Oxford
 event-time: 7PM
 category: fundraising
 date: June 25, 2013
-thumb: http://data.oxfordindiasociety.org.uk/photos/bhopal-medical-appeal/ox10k-484x403.jpg
+thumb: https://data.oxfordindiasociety.org.uk/photos/bhopal-medical-appeal/ox10k-484x403.jpg
 ---
 
 OIS President Vikaran Khanna talks about our support to the Bhopal Medical

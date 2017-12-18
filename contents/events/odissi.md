@@ -4,7 +4,7 @@ location: Grove Auditorium, Magdalen College, Oxford OX1 4AU
 event-time: 18:30–20:00
 category: cultural
 date: May 27, 2016
-thumb: http://data.oxfordindiasociety.org.uk/photos/odissi/odissi.jpg
+thumb: https://data.oxfordindiasociety.org.uk/photos/odissi/odissi.jpg
 ---
 
 Oxford India Society, in collaboration with Oxford Odissi Centre, is delighted to invite you to an evening of enthralling Indian classical dance performances. A celebration of graceful movement and artistic expression, the festival promises to be enchanting and inspiring in equal measure.

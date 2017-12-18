@@ -4,7 +4,7 @@ location: Merton College, Oxford
 event-time: 7pm
 category: social
 date: March 5, 2014
-thumb: http://data.oxfordindiasociety.org.uk/photos/merton-formal-ht2014/DSC04587.JPG
+thumb: https://data.oxfordindiasociety.org.uk/photos/merton-formal-ht2014/DSC04587.JPG
 ---
 
 5th of March saw the Oxford India Society host its inaugural annual formal
